@@ -192,6 +192,42 @@ body {
   fill: var(--color-white);
 }
 
+.list-card{
+  display: flex;
+  gap: 30px;
+  align-content: end;
+  /* justify-content: end; */
+}
+
+
+.item {
+  align-items: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .services {
   padding-top: 150px;
